@@ -7,7 +7,15 @@ import com.currencyconvertor.constants.CurrencyConstants;
 import com.currencyconvertor.country.Country;
 import com.currencyconvertor.currency.Currency;
 
-public class CurrencyCovertorDemo {
+/**
+* The CurrencyConvertor program simply converts a
+* currency of one country to the currency of another.
+*
+* @author  Jayant Kumar Agarwal
+* @version 1.0
+* @since   2022-Oct-08
+*/
+public class CurrencyConvertorDemo {
 
 	public Scanner scanner;
 	public int countryId;
@@ -15,7 +23,7 @@ public class CurrencyCovertorDemo {
 	
 	public static void main(String[] args) {
 		
-		CurrencyCovertorDemo currencyCovertorDemo = new CurrencyCovertorDemo();
+		CurrencyConvertorDemo currencyCovertorDemo = new CurrencyConvertorDemo();
 		Country country = new Country();
 		Currency currency = new Currency();
 		

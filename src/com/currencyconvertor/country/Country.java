@@ -3,12 +3,12 @@ package com.currencyconvertor.country;
 import java.util.Scanner;
 
 import com.currencyconvertor.constants.CountryConstants;
-import com.currencyconvertor.driver.CurrencyCovertorDemo;
+import com.currencyconvertor.driver.CurrencyConvertorDemo;
 
 public class Country {
 
 	
-public String countrySelector(CurrencyCovertorDemo currencyCovertorDemo){
+public String countrySelector(CurrencyConvertorDemo currencyCovertorDemo){
 		
 		try {
 			System.out.println(CountryConstants.COUNTRY_LIST);
