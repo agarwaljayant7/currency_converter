@@ -6,4 +6,4 @@
 * As of now , have implemented the conversion between the following countries' currencies only
 * USD-> INR and vice versa
 * UK Pound -> INR and vice versa
-* Further implementations will be provided later, Thank you
+* Further implementations to be provided later, Thank you
